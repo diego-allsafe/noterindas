@@ -5,6 +5,7 @@ p {
 }
 #primer-p{
   color:red;
+  background-color: #FA8072;
 }
 p.subrayado{
   text-decoration: underline;
