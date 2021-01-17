@@ -5,3 +5,10 @@ p {
 #primer-p{
   color:red;
 }
+p.subrayado{
+  text-decoration: underline;
+}
+
+.otro-color{
+  color: green;
+}
