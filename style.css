@@ -15,3 +15,7 @@ p.subrayado{
   color: rgba(99, 195, 117, 0,5
   );
 }
+body{
+  background-image: url("../MajoSpa/img/bg.jpg");
+  background-size: cover;
+}
